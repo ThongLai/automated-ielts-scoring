@@ -512,5 +512,5 @@ Lexical Resource: 4.0 - Uses only very basic vocabulary, often repetitively or i
 Grammatical Range and Accuracy: 4.0 - Uses an extremely limited range of sentence structures, which are often inaccurate. Grammatical errors are frequent and severe, making comprehension very difficult.
 
 Overall Band Score: 4.0"""
-    ]
-  }
+      ]
+}
